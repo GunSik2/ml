@@ -1,8 +1,8 @@
 
 # Windows 10 Installation
-- Two options 
-  1) Install python & tensorflow module
-  2) Install anaconda
+- Two options: 
+  - 1) Install python & tensorflow module
+  - 2) Install anaconda
   
 ## Installation 
 ### 1) Install python & tensorflow module
