@@ -13,6 +13,12 @@ py -m pip install --upgrade https://storage.googleapis.com/tensorflow/windows/cp
 ```
 ### 2) Install anaconda
 - Downoload and install : https://www.continuum.io/downloads
+- run
+```
+conda create -n tensorflow python=3.5
+source activate tensorflow
+pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-0.12.0rc0-cp35-cp35m-win_amd64.whl
+```
 - Run Anaconda Naviagor > Launch jypyter notebook
 
 ### IDE tool
