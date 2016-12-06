@@ -12,7 +12,11 @@
 py -m pip install --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-0.12.0rc0-cp35-cp35m-win_amd64.whl
 ```
 ### 2) Install anaconda
-- -ownoload and install : https://www.continuum.io/downloads
+- Downoload and install : https://www.continuum.io/downloads
+- Run Anaconda Naviagor > Launch jypyter notebook
+
+### IDE tool
+- [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ### Test
 
@@ -20,4 +24,4 @@ py -m pip install --upgrade https://storage.googleapis.com/tensorflow/windows/cp
 
 ## Tools
 - [python 3.5.2](https://www.python.org/downloads/release/python-352/)
-- [tensorflow r0.12](https://www.tensorflow.org/versions/r0.12/get_started/os_setup.html)
+- [tensorflow r0.12 setup](https://www.tensorflow.org/versions/r0.12/get_started/os_setup.html)
